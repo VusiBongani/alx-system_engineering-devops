@@ -1,5 +1,2 @@
 #!/bin/bash
-chmod -C +X .
-#!/bin/bash
-
 chmod -R +X .
